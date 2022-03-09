@@ -1,7 +1,5 @@
 # Programmers Coding Test
 
-<hr />
-
 ## 고득점 키트
 
 **정렬**
