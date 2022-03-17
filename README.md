@@ -16,3 +16,6 @@
 1. [모의고사](https://github.com/WoodysCloud/Algorithm/blob/main/Programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.ipynb)
 2. [소수 찾기](https://github.com/WoodysCloud/Algorithm/blob/main/Programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.ipynb)
 3. [카펫](https://github.com/WoodysCloud/Algorithm/blob/main/Programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B9%B4%ED%8E%AB.ipynb)
+
+**깊이/너비 우선 탐색(DFS/BFS)**
+1. [타겟 넘버](https://github.com/WoodysCloud/Algorithm/blob/main/Programmers/DFS_BFS/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.ipynb)
